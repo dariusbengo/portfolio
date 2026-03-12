@@ -55,25 +55,6 @@ Mon mémoire porte sur :
 
 ## Projets
 
-### Prédiction des prix de l'immobilier en Californie
-
-Projet de machine learning visant à prédire le prix des logements à partir du dataset California Housing.
-
-Travail réalisé :
-- analyse de la qualité des données
-- feature engineering
-- entraînement de modèles Random Forest et Gradient Boosting
-- évaluation des performances
-
-Résultats :
-- Random Forest : R² = 0.81
-- Gradient Boosting : R² = 0.82
-
-Lien du projet :  
-https://github.com/dariusbengo/california-housing-prediction
-
----
-
 ### Dashboard en temps réel de la disponibilité des Vélib' en Île-de-France
 
 Tableau de bord permettant de suivre en temps réel la disponibilité des vélos et la capacité des stations.
@@ -87,50 +68,82 @@ Fonctionnalités :
 - visualisation de la disponibilité des vélos
 - aide à la surveillance opérationnelle de la répartition des vélos
 
-Lien du projet :  
-https://github.com/dariusbengo/velib-dashboard
+[Lien du projet](https://github.com/dariusbengo/Velib)
+
+---
+
+### Prédiction des prix de l'immobilier en Californie
+
+Projet de machine learning visant à prédire le prix des logements à partir du dataset California Housing.
+
+Technologies :
+- Python
+- Scikit-learn
+- Pandas
+
+Fonctionnalités :
+- analyse et nettoyage des données
+- feature engineering
+- entraînement de modèles Random Forest et Gradient Boosting
+- évaluation des performances des modèles
+
+Résultats :
+- Random Forest : R² = 0.81
+- Gradient Boosting : R² = 0.82
 
 ---
 
 ### Analyse de performance commerciale de ClassicModels
 
-Projet d'analyse business basé sur une base de données relationnelle de 12 tables.
+Projet d'analyse business basé sur une base de données relationnelle composée de 12 tables.
 
-Travail réalisé :
+Technologies :
+- SQL
+- Power BI
+
+Fonctionnalités :
 - requêtes SQL complexes (jointures, agrégations, filtrage)
 - extraction et structuration des données
 - création d'un dashboard Power BI
-- formulation de recommandations stratégiques
+- analyse des indicateurs clés de performance
 
-Principaux enseignements :
-- forte saisonnalité des ventes en fin d'année
-- opportunités d'amélioration de la qualité des livraisons
-
-Lien du projet :  
-https://github.com/dariusbengo/classicmodels-analysis
+Recommandations :
+- mise en place d'une stratégie pour réduire la saisonnalité des ventes
+- amélioration de la qualité des livraisons
 
 ---
 
 ### Prédiction de survie aux naufrages maritimes
 
-Projet de machine learning utilisant plusieurs bases de données de naufrages historiques.
+Projet de machine learning visant à prédire la probabilité de survie lors de catastrophes maritimes.
 
 Datasets utilisés :
 - Titanic
 - RMS Lusitania
 - MS Estonia
 
-Travail réalisé :
-- évaluation de la complétude des données
-- réconciliation de différentes sources de données
-- modèles de classification (Random Forest, Gradient Boosting)
+Technologies :
+- Python
+- Scikit-learn
+- Pandas
+
+Fonctionnalités :
+- fusion de différentes sources de données
+- analyse de la complétude des données
+- entraînement de modèles de classification
 
 Résultat :
-- précision de 72 % avec Gradient Boosting
+- précision de 72 % avec le modèle Gradient Boosting
 
-Lien du projet :  
-https://github.com/dariusbengo/maritime-survival-prediction
+---
 
+## Autres projets GitHub
+
+### Autres travaux et expérimentations
+
+Vous pouvez consulter l'ensemble de mes projets et expérimentations data sur mon GitHub :
+
+[Lien vers mes repositories](https://github.com/dariusbengo?tab=repositories)
 ---
 
 ## Expérience
