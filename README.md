@@ -55,7 +55,7 @@ Mon mémoire porte sur :
 
 ## Projets
 
-### Dashboard en temps réel de la disponibilité des Vélib' en Île-de-France
+### [Dashboard en temps réel de la disponibilité des Vélib' en Île-de-France](https://github.com/dariusbengo/Velib)
 
 Tableau de bord permettant de suivre en temps réel la disponibilité des vélos et la capacité des stations.
 
@@ -67,8 +67,6 @@ Fonctionnalités :
 - suivi des stations en temps réel
 - visualisation de la disponibilité des vélos
 - aide à la surveillance opérationnelle de la répartition des vélos
-
-[Lien du projet](https://github.com/dariusbengo/Velib)
 
 ---
 
@@ -113,7 +111,7 @@ Recommandations :
 
 ---
 
-### Prédiction de survie aux naufrages maritimes
+### [Prédiction de survie aux naufrages maritimes](https://github.com/dariusbengo/Prediction-de-survie-aux-naufrages)
 
 Projet de machine learning visant à prédire la probabilité de survie lors de catastrophes maritimes.
 
@@ -146,7 +144,7 @@ Vous pouvez consulter l'ensemble de mes projets et expérimentations data sur mo
 [Lien vers mes autres projets](https://github.com/dariusbengo?tab=repositories)
 ---
 
-## Expérience
+## Expériences professionnelles
 
 ### Consultant Data Junior — Vaisselinnov  
 La Courneuve, France
@@ -169,7 +167,7 @@ Paris, France
 
 ---
 
-## Formation
+## Formation académique
 
 Master Big Data, Analyse et Business Intelligence  
 Université Sorbonne Paris Nord  
