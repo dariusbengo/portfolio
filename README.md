@@ -143,7 +143,7 @@ Résultat :
 
 Vous pouvez consulter l'ensemble de mes projets et expérimentations data sur mon GitHub :
 
-[Lien vers mes repositories](https://github.com/dariusbengo?tab=repositories)
+[Lien vers mes autres projets](https://github.com/dariusbengo?tab=repositories)
 ---
 
 ## Expérience
@@ -188,17 +188,10 @@ Cours principaux :
 
 ---
 
-## CV
-
-Mon CV est disponible ici :
-
-[Consulter mon CV](./CV_Darius_Bengo.pdf)
-
----
-
 ## Contact
 
-Email : bengodarius@hotmail.com  
+Email : mailto:bengodarius@hotmail.com  
 GitHub : https://github.com/dariusbengo
+LinkedIn : https://linkedin.coom/in/darius-bengo
 
 ---
