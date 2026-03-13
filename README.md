@@ -1,13 +1,7 @@
 # Portfolio
 
 Data Analyst | Data Scientist | Business Analyst 
-
-Étudiant en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord, je m'intéresse à l'exploitation des données pour produire des analyses utiles à la prise de décision.  
-
-Je recherche actuellement un stage de fin d'études de 6 mois disponible immédiatement en data analysis, business intelligence ou data science.
-
 ---
-
 ## À propos
 
 Mon parcours combine une formation en économie et en data science, ce qui me permet d'aborder les problématiques data avec une vision analytique et orientée business.
@@ -19,9 +13,6 @@ Je m'intéresse particulièrement à :
 - le machine learning appliqué
 - la gouvernance et l'éthique des données
 - l'impact de l'intelligence artificielle sur la protection des données personnelles
-
-Mon mémoire porte sur :  
-**L’impact de l’intelligence artificielle sur la protection des données des utilisateurs de smartphones.**
 
 ---
 
