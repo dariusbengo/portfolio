@@ -1,6 +1,6 @@
-# Darius Bengo
+# Portfolio
 
-Data Analyst | Machine Learning | Business Intelligence  
+Data Analyst | Data Scientist | Business Analyst 
 
 Étudiant en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord, je m'intéresse à l'exploitation des données pour produire des analyses utiles à la prise de décision.  
 
