@@ -61,7 +61,7 @@ Fonctionnalités :
 
 ---
 
-### Prédiction des prix de l'immobilier en Californie
+### [Prédiction des prix de l'immobilier en Californie](https://github.com/dariusbengo/Prediction-des-prix-de-l-immobilier-en-Californie)
 
 Projet de machine learning visant à prédire le prix des logements à partir du dataset California Housing.
 
