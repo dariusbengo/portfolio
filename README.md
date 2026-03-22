@@ -171,6 +171,8 @@ Résultat :
 
 * Couverture vocabulaire : 98,80 %
 
+---
+
 ### Autres travaux et expérimentations
 
 Vous pouvez consulter l'ensemble de mes projets et expérimentations data sur mon [GitHub](https://github.com/dariusbengo?tab=repositories).
