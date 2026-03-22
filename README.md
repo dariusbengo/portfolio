@@ -82,7 +82,7 @@ Résultats :
 
 ---
 
-### Analyse de performance commerciale de ClassicModels
+### [Analyse de performance commerciale de ClassicModels](https://github.com/dariusbengo/Analyse-de-la-performance-commerciale-de-ClassicModels)
 
 Projet d'analyse business basé sur une base de données relationnelle composée de 12 tables.
 
