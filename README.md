@@ -126,6 +126,51 @@ Résultat :
 
 ---
 
+### [Dashboard sur les déclarations d'infractions sur l'application Dans Ma Rue](https://github.com/dariusbengo/Dans-Ma-Rue)
+
+Dashboard interactif analysant les infractions sur la voie publique déclarées à Paris entre juin et août 2025 (225 059 signalements).
+
+Technologies :
+
+* Power BI
+
+Fonctionnalités :
+
+* Heat map des zones de concentration des déclarations
+* Analyse par type d'infraction et par arrondissement
+* Suivi de la répartition des équipes d'intervention
+
+Résultats :
+
+* Concentration des infractions dans le nord-est parisien
+* 3 types d'infractions dominants : objets abandonnés, graffitis, propreté
+* Recommandations de réaffectation des équipes d'intervention
+
+---
+
+### [Modèle Word2Vec sur des critiques de films](https://github.com/dariusbengo/word2vec)
+
+Entraînement d'un modèle Word2Vec sur le dataset Kaggle *The Movies Dataset* (45 466 films) pour représenter les mots sous forme de vecteurs et analyser les similarités sémantiques entre termes cinématographiques.
+
+Technologies :
+
+* Python
+* Gensim
+* NLTK
+* Pandas
+
+Fonctionnalités :
+
+* Tokenisation et nettoyage des critiques de films
+* Entraînement d'un modèle Word2Vec (vecteurs 100 dimensions, fenêtre de 5 mots, 15 epochs)
+* Recherche des mots les plus similaires à un mot donné
+* Test de similarité sémantique entre termes
+* Analyse vectorielle (combinaisons positives/négatives de concepts)
+
+Résultat :
+
+* Couverture vocabulaire : 98,80 %
+
 ## Autres projets GitHub
 
 ### Autres travaux et expérimentations
