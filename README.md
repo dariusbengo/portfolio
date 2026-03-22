@@ -171,13 +171,10 @@ Résultat :
 
 * Couverture vocabulaire : 98,80 %
 
-## Autres projets GitHub
-
 ### Autres travaux et expérimentations
 
-Vous pouvez consulter l'ensemble de mes projets et expérimentations data sur mon GitHub :
+Vous pouvez consulter l'ensemble de mes projets et expérimentations data sur mon [GitHub](https://github.com/dariusbengo?tab=repositories).
 
-[Lien vers mes autres projets](https://github.com/dariusbengo?tab=repositories)
 ---
 
 ## Expériences professionnelles
@@ -187,19 +184,19 @@ La Courneuve, France
 
 Projet professionnel réalisé dans le cadre du master.
 
-- collaboration avec le porteur de projet pour identifier les besoins data
-- conception d'un modèle de données
-- optimisation des processus data pour la supply chain
-- création de tableaux de bord automatisés avec Power BI
+- Collaboration avec le porteur de projet pour identifier les besoins data
+- Conception d'un modèle de données
+- Optimisation des processus data pour la supply chain
+- Création de tableaux de bord automatisés avec Power BI
 
 ---
 
 ### Chargé d'études — Technopresse  
 Paris, France
 
-- création d'une base de données financière de 10 000 entreprises
-- analyse du marché de la sécurité privée en France
-- contribution à la rédaction d'un atlas sectoriel
+- Création et gestion d'une base de données financières de 10 000 entreprises
+- Production de rapports quotidiens sur l'état d'avancement du projet
+- Contribution à la rédaction d'une revue spécialisée sur le marché de la sécuritée privée en France en 2023
 
 ---
 
